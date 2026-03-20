@@ -60,7 +60,7 @@ include 'includes/header.php';
         <script async src="https://telegram.org/js/telegram-widget.js?22"
                 data-telegram-login="jarvisMMIIbot"
                 data-size="large"
-                data-auth-url="https://whisperx.site/index.php"
+                data-auth-url="https://braix.online/index.php"
                 data-request-access="write"></script>
 
         <!-- Developer Portfolio Button -->
