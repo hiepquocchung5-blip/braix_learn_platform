@@ -1,0 +1,48 @@
+earn-to-learn/
+├── admin/
+│   ├── dashboard.php
+│   ├── index.php
+│   ├── languages.php
+│   ├── lessons.php
+│   ├── users.php
+│   ├── transactions.php
+│   ├── gifts.php
+│   ├── ai_prompts.php
+│   ├── community.php
+│   ├── settings.php
+│   ├── quizzes.php                 <-- NEW (Admin page for quizzes)
+│   ├── quiz_questions.php          <-- NEW (Admin page for quiz questions)
+│   ├── coding_challenges.php       <-- NEW (Admin page for challenges)
+│   ├── challenge_submissions.php   <-- NEW (Admin page for reviewing submissions)
+│   ├── badges.php                  <-- NEW (Admin page for managing badges)
+│   └── profile_items.php           <-- NEW (Admin page for managing profile items)
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   └── img/
+│       ├── kbz_pay_qr.png
+│       └── (new images for gifts, badges, profile items)
+├── includes/
+│   ├── config.php
+│   ├── header.php
+│   └── footer.php
+├── database.sql
+├── index.php
+├── dashboard.php
+├── lessons.php
+├── lesson_detail.php
+├── buy_points.php
+├── redeem_gifts.php
+├── community.php
+├── logout.php
+├── quizzes.php                     <-- NEW (User-facing quiz list)
+├── take_quiz.php                   <-- NEW (User-facing quiz taking page)
+├── submit_quiz.php                 <-- NEW (Handles quiz submission)
+├── challenges.php                  <-- NEW (User-facing challenge list)
+├── submit_challenge.php            <-- NEW (User-facing challenge submission)
+├── leaderboard.php                 <-- NEW
+├── profile.php                     <-- NEW (User-facing profile page)
+└── user_badges.php                 <-- NEW (User-facing badges display)
+
+$user = "zoczlszw_whisperxsitephpbackend";
+$pass = "KU5tg2wR43UvHNZ2ytXL";  // 🔐 You can rotate this periodically
