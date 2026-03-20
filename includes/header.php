@@ -63,7 +63,7 @@ $current_user = get_app_current_user($conn);
             <!-- Logo -->
             <div class="flex items-center space-x-3">
                 <img src="https://placehold.co/40x40/6a0dad/ffffff?text=Logo" alt="Logo" class="rounded-full">
-                <a href="dashboard.php" class="text-2xl font-bold text-purple-300 hover:text-purple-400 transition-colors">LearnX</a>
+                <a href="dashboard.php" class="text-2xl font-bold text-purple-300 hover:text-purple-400 transition-colors">Braix</a>
             </div>
 
             <!-- User Info and Points -->

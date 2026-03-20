@@ -26,7 +26,7 @@ include '../includes/header.php'; // Use the main header
     <!-- Introductory Text for Admin -->
     <div class="form-card p-6 rounded-xl shadow-lg text-center mb-8">
         <p class="text-lg text-purple-100 mb-4">
-            Welcome to your LearnX Admin Panel! From here, you can manage all aspects of your "Earn to Learn" platform.
+            Welcome to your Braix Admin Panel! From here, you can manage all aspects of your "Earn to Learn" platform.
             Monitor user activity, update content, and oversee transactions to keep your community thriving.
         </p>
         <p class="text-md text-gray-300">

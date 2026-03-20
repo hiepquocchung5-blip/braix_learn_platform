@@ -53,7 +53,7 @@ include 'includes/header.php';
 
 <div class="container flex flex-col items-center justify-center min-h-[calc(100vh-10rem)] py-12">
     <div class="form-card p-8 rounded-xl shadow-xl text-center max-w-lg w-full">
-        <h1 class="text-4xl font-bold mb-6 text-purple-300">Welcome to LearnX!</h1>
+        <h1 class="text-4xl font-bold mb-6 text-purple-300">Welcome to Braix!</h1>
         <p class="text-lg mb-8 text-purple-100">Learn programming, earn points, and unlock premium content.</p>
 
         <!-- Telegram Login Button -->

@@ -40,7 +40,7 @@ include 'includes/header.php';
 <div class="container py-8">
     <h1 class="text-4xl font-bold mb-8 text-center text-purple-300">My Badges</h1>
     <p class="text-lg text-center text-purple-100 mb-8">
-        A collection of your achievements on LearnX! Keep learning to earn more.
+        A collection of your achievements on Braix! Keep learning to earn more.
     </p>
 
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">

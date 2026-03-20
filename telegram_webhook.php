@@ -21,7 +21,7 @@ if (isset($update['message'])) {
 
     // Example: Respond to a simple /start command
     if ($text === '/start') {
-        $response_text = "Hello " . htmlspecialchars($username) . "! Welcome to LearnX. Please use the web application for full features: https://earntolearn.ojt2025.com/";
+        $response_text = "Hello " . htmlspecialchars($username) . "! Welcome to Braix. Please use the web application for full features: https://earntolearn.ojt2025.com/";
         sendTelegramMessage($chat_id, $response_text);
     }
 
