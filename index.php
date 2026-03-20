@@ -58,10 +58,10 @@ include 'includes/header.php';
 
         <!-- Telegram Login Button -->
         <script async src="https://telegram.org/js/telegram-widget.js?22"
-                data-telegram-login="jarvisMMIIbot"
-                data-size="large"
+                data-telegram-login="braixerbot" data-size="large"
                 data-auth-url="https://braix.online/index.php"
-                data-request-access="write"></script>
+                data-request-access="write">
+        </script>
 
         <!-- Developer Portfolio Button -->
         <a href="https://techyyfilip.vercel.app" target="_blank"
