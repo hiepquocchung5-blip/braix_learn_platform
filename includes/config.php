@@ -10,8 +10,8 @@ ini_set('display_errors', 1);
 // define('DB_NAME', 'pmwengs_earn_to_learn'); // Your database name
 
 define('DB_SERVER', 'localhost'); // Your database server
-define('DB_USERNAME', 'stephan');     // Your database username
-define('DB_PASSWORD', 'superuser');         // Your database password
+define('DB_USERNAME', 'zmmlpszw_filip');     // Your database username
+define('DB_PASSWORD', '@fekgygn85cCM43');         // Your database password
 define('DB_NAME', 'zmmlpszw_braix');
 
 // Telegram Bot API configuration (for login webhook, if implemented)
