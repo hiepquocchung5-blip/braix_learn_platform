@@ -16,7 +16,7 @@ define('DB_NAME', 'zmmlpszw_braix');
 
 // Telegram Bot API configuration (for login webhook, if implemented)
 // You need to create a bot via BotFather on Telegram to get these.
-define('TELEGRAM_BOT_TOKEN', '7917821595:AAG1OTGZpv_VUuKzYNDxiaJw4z2k1MJBKGg'); // Updated with your actual bot token
+define('TELEGRAM_BOT_TOKEN', '8394551492:AAEC3JtdKSHDHrvKApZcIhI9Jwd14bpDayY'); // Updated with your actual bot token
 define('TELEGRAM_WEBHOOK_URL', 'https://braix.online/telegram_webhook.php'); 
 
 // KBZ Pay QR Image (Placeholder)
